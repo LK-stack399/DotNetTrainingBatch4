@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DotNetTrainingBatch4.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
